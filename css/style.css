@@ -1,0 +1,15 @@
+
+body{
+	background-image: url("https://i.ytimg.com/vi/cdWj8fXHQLg/maxresdefault.jpg");
+	/*background-color: black;*/
+	/*position: absolute;*/
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-position: center center;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	background-size: cover;
+}
+html{
+	margin: 0;
+}
